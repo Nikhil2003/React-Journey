@@ -1,2 +1,2 @@
 # React-Journey
-Here I am deploying all the code that i learned from Hitesh Chaudhary.
+Here I am deploying all the ReactJs code that i learned from Hitesh Chaudhary.
